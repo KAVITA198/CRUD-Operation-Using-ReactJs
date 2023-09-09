@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Ankit",
+      "salary": "50000",
+      "company": "Tcs",
+      "id": 2
+    },
+    {
+      "name": "Ram",
+      "salary": "10000",
+      "company": "TCS",
+      "id": 3
+    },
+    {
+      "name": "Sneha",
+      "salary": "35000",
+      "company": "Wipro",
+      "id": 4
+    },
+    {
+      "name": "Jyoti",
+      "salary": "30000",
+      "company": "Infosis",
+      "id": 5
+    },
+    {
+      "name": "Shrejal",
+      "salary": "25000",
+      "company": "Infosis",
+      "id": 6
+    },
+    {
+      "name": "Kavita",
+      "salary": "55000",
+      "company": "TCS",
+      "id": 7
+    }
+  ]
+}
